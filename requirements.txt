@@ -1,0 +1,9 @@
+sentence-transformers
+transformers
+torch
+faiss-cpu
+langchain
+chromadb
+streamlit
+fastapi
+uvicorn
